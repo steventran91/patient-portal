@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Frontend (patient-portal-frontend, added in Phase 2)
+node_modules/
+dist/
+.env
+.env.local
