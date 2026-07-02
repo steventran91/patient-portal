@@ -1,6 +1,6 @@
 # OS
 .DS_Store
-
+.CLAUDE.md
 # Editor
 .vscode/
 .idea/
