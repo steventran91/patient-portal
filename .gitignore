@@ -1,6 +1,9 @@
 # OS
 .DS_Store
-.CLAUDE.md
+
+# Personal mentor/session config — not for public repo
+CLAUDE.md
+
 # Editor
 .vscode/
 .idea/
